@@ -12,7 +12,7 @@ $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="daftarpeer-view">
 
-    <h1><?= Html::encode($this->title) ?></h1>
+    <h1><p align = "center">Keterangan Tugas ke-<?= Html::encode($this->title) ?> Anda. </p></h1>
 
   
     <?= DetailView::widget([

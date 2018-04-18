@@ -38,7 +38,7 @@ AppAsset::register($this);
     echo Nav::widget([
         'options' => ['class' => 'navbar-nav navbar-right'],
         'items' => [
-            ['label' => 'Beranda', 'url' => ['/site/index']],
+            ['label' => 'Daftar PR anda', 'url' => ['/daftarpeer/index']],
             ['label' => 'Tentang', 'url' => ['/site/about']],
             ['label' => 'Kontak', 'url' => ['/site/contact']],
             Yii::$app->user->isGuest ? (

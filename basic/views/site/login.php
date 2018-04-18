@@ -24,7 +24,7 @@ $this->params['breadcrumbs'][] = $this->title;
     
     <div class="col-lg-offset-0" style="color:#999;">
         Anda tidak perlu <strong> Sign-in </strong> atau <strong> Sign-up </strong>.<br>
-        Untuk menggunakan aplikasi ini, silahkan langsung klik Beranda / My application.
+        Untuk menggunakan aplikasi ini, silahkan langsung klik Beranda / Daftar PR anda.
         Terima Kasih.
     </div>
 </div>
